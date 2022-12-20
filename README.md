@@ -1,5 +1,15 @@
 # MBTI Cognitive Functions
 
+Cognitive functions are the technical term for “Modes of processing information and making decisions based on your Myers-Briggs type.” Each type has four (out of a possible eight) cognitive functions, which they use in a specific order. Identifying which functions you use – and in what order – is the most accurate way to type yourself or anyone else. The functions necessitate the four-letter type, not the other way around.
+
+Of the eight cognitive functions, four are extroverted (oriented toward action and interaction with the world around you) and four are introverted (oriented toward analysis and reflection). Regardless of whether you’re an extrovert or an introvert, we each have two extroverted functions and two introverted functions. Extroverts just prefer using their main extroverted function over their main introverted function and vice versa.
+
+Overall, you have one extroverted perceptive function, one introverted perceptive function, one extroverted judgment function and one introverted judgment function.
+
+Of those functions, one is an intuitive function, one is a sensing function, one is a thinking function and one is a feeling function.
+
+This explains why Thinkers occasionally have feelings and Feelers occasionally make logical decisions. It also explains why Perceivers can sometimes be very structured and Judgers can sometimes go with the flow. We’re all a bit of everything, but your type is ultimately determined by which cognitive functions you have and what order you use them in.
+
 ## What order do I use my functions in?
 
 You are in a swimming pool and your first (or “dominant”) function is the water. It’s everywhere. It’s what you do without thinking about it. It’s your natural first impulse to every situation – it comes to you so naturally that you may not even notice yourself using it.
